@@ -1,3 +1,3 @@
-# homebrew-sailor
+# SailorCLI
 
-tap to install using homebrew
+Command Line Interface for [Sailor](https://github.com/JoshSweaterGuy/Sailor)
