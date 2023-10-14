@@ -1,3 +1,3 @@
 # SailorCLI
 
-Command Line Interface for [Sailor](https://github.com/JoshSweaterGuy/Sailor)
+Homebrew repository for [Sailor](https://github.com/JoshSweaterGuy/Sailor)
